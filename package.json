@@ -1,0 +1,15 @@
+{
+  "name": "avalia-o-ptas",
+  "version": "1.0.0",
+  "description": "//Middlewares são funções ou camadas intermediárias em aplicativos, geralmente em frameworks de desenvolvimento como Express (para Node.js) ou em outros sistemas, que permitem a manipulação e o processamento de requisições HTTP antes que elas cheguem ao ponto final (endpoint) desejado. No geral, elas têm a função de interceptar, modificar, autenticar, ou mesmo registrar o que ocorre durante uma requisição e resposta em uma aplicação web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
